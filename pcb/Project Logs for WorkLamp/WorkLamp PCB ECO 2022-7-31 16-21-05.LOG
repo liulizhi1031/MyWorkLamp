@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=3V3 Pin=R6-1
+Removed Pin From Net: NetName=USB_D+ Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=USB-0
+Removed Pin From Net: NetName=GND Pin=USB-0
+Removed Pin From Net: NetName=GND Pin=USB-0
+Removed Pin From Net: NetName=GND Pin=USB-0
+Removed Pin From Net: NetName=NetR7_2 Pin=USB-4
+Removed Pin From Net: NetName=USB_D- Pin=USB-5
+Removed Pin From Net: NetName=USB_D+ Pin=USB-6
+Removed Pin From Net: NetName=USB_D- Pin=USB-7
+Removed Pin From Net: NetName=USB_D+ Pin=USB-8
+Removed Pin From Net: NetName=NetR8_2 Pin=USB-10
+Removed Pin From Net: NetName=+5 Pin=USB-11
+Removed Pin From Net: NetName=GND Pin=USB-12
+Removed Member From Class: ClassName=WorkLamp Member=R6
+Change Component Footprint: Designator=USB Old Footprint=USB_C_16PIN_SMT New Footprint=USB_C_6PIN_SMT_S1
+Change Component Comment : Designator=USB Old Comment=USB_C_16P_SMT New Comment=USB_C_6P_SMT_S1
+Added Pin To Net: NetName=NetR7_2 Pin=USB-3
+Added Pin To Net: NetName=NetR8_2 Pin=USB-4
+Added Pin To Net: NetName=+5 Pin=USB-5
+Added Pin To Net: NetName=GND Pin=USB-6
+Added Room: Name=WorkLamp

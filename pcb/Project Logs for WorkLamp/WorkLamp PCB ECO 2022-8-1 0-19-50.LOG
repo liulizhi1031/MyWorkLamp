@@ -1,0 +1,43 @@
+Change Component Designator: OldDesignator=SWD NewDesignator=P1
+Change Component Designator: OldDesignator=TK NewDesignator=TOUCH_KEY
+Added Pin To Net: NetName=NetLED1_1_1 Pin=LED1_1-1
+Added Pin To Net: NetName=NetLED1_1_2 Pin=LED1_1-2
+Added Pin To Net: NetName=NetLED1_2_1 Pin=LED1_2-1
+Added Pin To Net: NetName=NetLED1_1_1 Pin=LED1_2-2
+Added Pin To Net: NetName=NetLED1_3_1 Pin=LED1_3-1
+Added Pin To Net: NetName=NetLED1_2_1 Pin=LED1_3-2
+Added Pin To Net: NetName=NetLED1_4_1 Pin=LED1_4-1
+Added Pin To Net: NetName=NetLED1_3_1 Pin=LED1_4-2
+Added Pin To Net: NetName=NetLED1_5_1 Pin=LED1_5-1
+Added Pin To Net: NetName=NetLED1_4_1 Pin=LED1_5-2
+Added Pin To Net: NetName=NetLED1_6_1 Pin=LED1_6-1
+Added Pin To Net: NetName=NetLED1_5_1 Pin=LED1_6-2
+Added Pin To Net: NetName=NetLED2_1_1 Pin=LED2_1-1
+Added Pin To Net: NetName=NetLED2_1_2 Pin=LED2_1-2
+Added Pin To Net: NetName=NetLED2_2_1 Pin=LED2_2-1
+Added Pin To Net: NetName=NetLED2_1_1 Pin=LED2_2-2
+Added Pin To Net: NetName=NetLED2_3_1 Pin=LED2_3-1
+Added Pin To Net: NetName=NetLED2_2_1 Pin=LED2_3-2
+Added Pin To Net: NetName=NetLED2_4_1 Pin=LED2_4-1
+Added Pin To Net: NetName=NetLED2_3_1 Pin=LED2_4-2
+Added Pin To Net: NetName=NetLED2_5_1 Pin=LED2_5-1
+Added Pin To Net: NetName=NetLED2_4_1 Pin=LED2_5-2
+Added Pin To Net: NetName=NetLED2_6_1 Pin=LED2_6-1
+Added Pin To Net: NetName=NetLED2_5_1 Pin=LED2_6-2
+Added Pin To Net: NetName=NetLED1_1_2 Pin=LED_IN-1
+Added Pin To Net: NetName=NetLED1_6_1 Pin=LED_IN-2
+Added Pin To Net: NetName=NetLED2_6_1 Pin=LED_IN-3
+Added Pin To Net: NetName=NetLED2_1_2 Pin=LED_IN-4
+Added Member To Class: ClassName=WorkLamp Member=Component LED1_1 LED_5730
+Added Member To Class: ClassName=WorkLamp Member=Component LED1_2 LED_5730
+Added Member To Class: ClassName=WorkLamp Member=Component LED1_3 LED_5730
+Added Member To Class: ClassName=WorkLamp Member=Component LED1_4 LED_5730
+Added Member To Class: ClassName=WorkLamp Member=Component LED1_5 LED_5730
+Added Member To Class: ClassName=WorkLamp Member=Component LED1_6 LED_5730
+Added Member To Class: ClassName=WorkLamp Member=Component LED2_1 LED_5730
+Added Member To Class: ClassName=WorkLamp Member=Component LED2_2 LED_5730
+Added Member To Class: ClassName=WorkLamp Member=Component LED2_3 LED_5730
+Added Member To Class: ClassName=WorkLamp Member=Component LED2_4 LED_5730
+Added Member To Class: ClassName=WorkLamp Member=Component LED2_5 LED_5730
+Added Member To Class: ClassName=WorkLamp Member=Component LED2_6 LED_5730
+Added Member To Class: ClassName=WorkLamp Member=Component LED_IN SH1.25mm_4P
